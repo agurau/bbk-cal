@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bbk-cal/static/css/main.d609be71.chunk.css",
+    "main.js": "/bbk-cal/static/js/main.3d1f4ee2.chunk.js",
+    "main.js.map": "/bbk-cal/static/js/main.3d1f4ee2.chunk.js.map",
+    "runtime-main.js": "/bbk-cal/static/js/runtime-main.40ab343f.js",
+    "runtime-main.js.map": "/bbk-cal/static/js/runtime-main.40ab343f.js.map",
+    "static/js/2.123b4be5.chunk.js": "/bbk-cal/static/js/2.123b4be5.chunk.js",
+    "static/js/2.123b4be5.chunk.js.map": "/bbk-cal/static/js/2.123b4be5.chunk.js.map",
+    "index.html": "/bbk-cal/index.html",
+    "static/css/main.d609be71.chunk.css.map": "/bbk-cal/static/css/main.d609be71.chunk.css.map",
+    "static/js/2.123b4be5.chunk.js.LICENSE.txt": "/bbk-cal/static/js/2.123b4be5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bbk-cal/static/media/Flower.18271dca.jpg",
+    "static/media/HeroSection.css": "/bbk-cal/static/media/Plitvice.f646578f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ab343f.js",
+    "static/js/2.123b4be5.chunk.js",
+    "static/css/main.d609be71.chunk.css",
+    "static/js/main.3d1f4ee2.chunk.js"
+  ]
+}
